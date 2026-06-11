@@ -151,7 +151,6 @@ Professional Report
     </td>
   </tr>
 </table>
----
 
 ## ⚙️ Tech Stack
 
