@@ -1,0 +1,62 @@
+# CORE UI
+
+streamlit>=1.45.0
+
+# LANGCHAIN + LANGGRAPH
+
+langchain>=0.3.26
+langchain-core>=0.3.66
+langchain-community>=0.3.27
+langgraph>=0.5.0
+langgraph-prebuilt>=1.1.0
+langchain-groq>=1.0.0
+langchain-huggingface>=0.3.0
+
+# GROQ
+
+groq>=0.30.0
+
+# VECTOR DATABASE
+
+chromadb>=1.0.15
+
+# EMBEDDINGS
+
+sentence-transformers>=5.0.0
+transformers>=4.53.0
+torch>=2.7.0
+torchvision>=0.22.0
+
+# PDF PROCESSING
+
+pypdf>=5.7.0
+PyPDF2>=3.0.1
+pdfplumber>=0.11.7
+pymupdf>=1.26.0
+
+# REPORT EXPORT
+
+reportlab>=4.4.2
+
+# DATA
+
+numpy>=2.3.0
+pandas>=2.3.0
+
+# CONFIG
+
+python-dotenv>=1.1.0
+pydantic>=2.11.0
+requests>=2.32.4
+tqdm>=4.67.0
+
+# OPTIONAL RAG
+
+faiss-cpu>=1.11.0
+
+# DEV
+
+watchdog>=6.0.0
+pytest>=8.4.0
+black>=25.1.0
+isort>=6.0.0

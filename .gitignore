@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+rag/chroma_db/
+memory/memory_db/
+
+.streamlit/cache/
+
+*.pdf
