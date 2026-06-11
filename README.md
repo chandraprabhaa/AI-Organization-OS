@@ -110,44 +110,44 @@ Professional Report
   <tr>
     <td align="center">
       <h4>🏠 Home</h4>
-      <img src="screenshots/home.png" width="300">
+      <img src="home.png" width="300">
     </td>
     <td align="center">
       <h4>🚀 Workflow Execution</h4>
-      <img src="screenshots/tab1_execute_workflow.png" width="300">
+      <img src="tab1_execute_workflow.png" width="300">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <h4>📋 Planning & Strategy</h4>
-      <img src="screenshots/tab2_planning_strategy.png" width="300">
+      <img src="tab2_planning_strategy.png" width="300">
     </td>
     <td align="center">
       <h4>🔎 Research & Analysis</h4>
-      <img src="screenshots/tab3_research_analysis.png" width="300">
+      <img src="tab3_research_analysis.png" width="300">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <h4>🛡️ Validation & QA</h4>
-      <img src="screenshots/tab4_validation_qa.png" width="300">
+      <img src="tab4_validation_qa.png" width="300">
     </td>
     <td align="center">
       <h4>📚 Knowledge Base</h4>
-      <img src="screenshots/tab5_knowledge_base.png" width="300">
+      <img src="tab5_knowledge_base.png" width="300">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <h4>🧠 Memory Dashboard</h4>
-      <img src="screenshots/tab6_memory_dashboard.png" width="300">
+      <img src="tab6_memory_dashboard.png" width="300">
     </td>
     <td align="center">
       <h4>📄 Reports & Export</h4>
-      <img src="screenshots/tab7_reports_export.png" width="300">
+      <img src="tab7_reports_export.png" width="300">
     </td>
   </tr>
 </table>
