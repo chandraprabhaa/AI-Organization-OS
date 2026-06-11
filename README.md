@@ -1,9 +1,5 @@
 # 🚀 AI Organization OS
 
-<p align="center">
-  <img src="assets/logo.gif" width="180" alt="AI Organization OS">
-</p>
-
 <h3 align="center">
 Enterprise Multi-Agent AI Operating System
 </h3>
@@ -27,14 +23,6 @@ Automated Business Strategy • Market Research • Analysis • Reporting
 AI Organization OS is a production-ready multi-agent AI platform that transforms business goals into actionable strategies, research insights, validation reports, and executive-ready deliverables.
 
 Built with LangGraph, Groq LLMs, ChromaDB, and Retrieval-Augmented Generation (RAG).
-
----
-
-## 🎥 Demo
-
-<p align="center">
-  <img src="assets/demo.gif" width="100%">
-</p>
 
 ---
 
@@ -116,54 +104,53 @@ Professional Report
 
 ---
 
-# 📸 Application Screenshots
+<h2 align="center">📸 Application Screenshots</h2>
 
-## 🏠 Home
+<table align="center">
+  <tr>
+    <td align="center">
+      <h4>🏠 Home</h4>
+      <img src="screenshots/home.png" width="300">
+    </td>
+    <td align="center">
+      <h4>🚀 Workflow Execution</h4>
+      <img src="screenshots/tab1_execute_workflow.png" width="300">
+    </td>
+  </tr>
 
-![Home](screenshots/home.png)
+  <tr>
+    <td align="center">
+      <h4>📋 Planning & Strategy</h4>
+      <img src="screenshots/tab2_planning_strategy.png" width="300">
+    </td>
+    <td align="center">
+      <h4>🔎 Research & Analysis</h4>
+      <img src="screenshots/tab3_research_analysis.png" width="300">
+    </td>
+  </tr>
 
----
+  <tr>
+    <td align="center">
+      <h4>🛡️ Validation & QA</h4>
+      <img src="screenshots/tab4_validation_qa.png" width="300">
+    </td>
+    <td align="center">
+      <h4>📚 Knowledge Base</h4>
+      <img src="screenshots/tab5_knowledge_base.png" width="300">
+    </td>
+  </tr>
 
-## 🚀 Workflow Execution
-
-![Workflow](screenshots/tab1_execute_workflow.png)
-
----
-
-## 📋 Planning & Strategy
-
-![Planning](screenshots/tab2_planning_strategy.png)
-
----
-
-## 🔎 Research & Analysis
-
-![Research](screenshots/tab3_research_analysis.png)
-
----
-
-## 🛡️ Validation & QA
-
-![QA](screenshots/tab4_validation_qa.png)
-
----
-
-## 📚 Knowledge Base
-
-![Knowledge Base](screenshots/tab5_knowledge_base.png)
-
----
-
-## 🧠 Memory Dashboard
-
-![Memory](screenshots/tab6_memory_dashboard.png)
-
----
-
-## 📄 Reports & Export
-
-![Reports](screenshots/tab7_reports_export.png)
-
+  <tr>
+    <td align="center">
+      <h4>🧠 Memory Dashboard</h4>
+      <img src="screenshots/tab6_memory_dashboard.png" width="300">
+    </td>
+    <td align="center">
+      <h4>📄 Reports & Export</h4>
+      <img src="screenshots/tab7_reports_export.png" width="300">
+    </td>
+  </tr>
+</table>
 ---
 
 ## ⚙️ Tech Stack
